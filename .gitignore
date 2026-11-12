@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+**/build/
+**/.DS_Store
+*.apk
+*.aab
+*.aar
+*.keystore
+*.jks
+*.log
+local.properties
+app/src/main/assets/
+app/libs/
+BANKS/
+E2_ACCEPTANCE_EVIDENCE/
+*.zip
