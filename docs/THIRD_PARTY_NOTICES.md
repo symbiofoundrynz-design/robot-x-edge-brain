@@ -12,5 +12,5 @@ Outstanding: Google runtimes, FunctionGemma if distributed,
 vision detection weights, Android dependencies, all transitive
 components, AAR-bundled content, licences and required NOTICE texts.
 
-No project's overall licence has been selected or granted here.
+The root MIT LICENSE covers SymbioFoundry-owned source and accompanying documentation only. It does not grant additional rights to third-party software, model weights, runtimes, SDKs or bundled dependencies. Exact revisions, redistribution requirements and transitive notices remain subject to verification.
 No third-party model weights or vendor binaries are included.

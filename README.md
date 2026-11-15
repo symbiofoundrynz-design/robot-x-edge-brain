@@ -37,7 +37,7 @@ Some newer visual-verification components in this repository remain **experiment
 
 This repository is a **reviewed engineering source showcase**, not a turnkey Android project or an installable APK. The publication copy contains privacy-related diagnostic logging edits **that have not been independently compiled or regression-tested**. Large model/voice/vision assets, the locally supplied sherpa-onnx AAR and the Gradle wrapper JAR are excluded. See [Build and Assets](docs/BUILD_AND_ASSETS.md).
 
-Third-party licences and exact asset attribution remain under review; no model weights or vendor binaries are redistributed. **No project-wide open-source licence is granted by this repository at present.** Its public visibility does not imply permission to reuse or redistribute the source.
+Third-party licences and exact asset attribution remain under review; no model weights or vendor binaries are redistributed. **License:** SymbioFoundry-owned source code and accompanying documentation in this repository are released under the [MIT License](LICENSE), Copyright (c) 2026 SymbioFoundry. Third-party software, model weights, voice assets, libraries, SDKs and trademarks are subject to their respective owners and terms; the MIT grant does not relicense those materials. See [Third-party notices](docs/THIRD_PARTY_NOTICES.md) and [Build and Assets](docs/BUILD_AND_ASSETS.md).
 
 ## About
 
